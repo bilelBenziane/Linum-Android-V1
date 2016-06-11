@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LINUM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_selector">Selector</string>
+    <string name="title_activity_super_selector">SuperSelector</string>
+    <string name="title_activity_guide_choices">GuideChoices</string>
+    <string name="title_activity_mapata">Mapata</string>
+    <string name="title_activity_mapita">Map</string>
+</resources>

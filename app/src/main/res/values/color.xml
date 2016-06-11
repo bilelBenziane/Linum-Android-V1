@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header">#236787</color>
+    <color name="above_header">#206483</color>
+    <color name="text_header">#fefefe</color>
+    <color name="blanco">#000000</color>
+</resources>
